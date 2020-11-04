@@ -1,2 +1,3 @@
 # Auto-test-on-status-200
-Auto test in Postman
+Тест работаем в программе Postman,
+подробные шаги описаны в файле AutoTest
